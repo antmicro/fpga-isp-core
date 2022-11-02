@@ -2,10 +2,10 @@
 FPGA ISP
 ========
 
-Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
+Copyright (c) 2020-2022 `Antmicro <https://www.antmicro.com>`_
 
 FPGA ISP is a collection of ISP cores dedicated for real time video processing in FPGAs.
-The code is vendor independent and is intended to be used with LiteX SoC builder.
+The code is vendor independent and is intended to be used with the LiteX SoC builder.
 
 The package can be easily installed with pip::
 
